@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/JackWFinlay/Depthcharge.Render/issues"
   },
-  "homepage": "https://github.com/JackWFinlay/Depthcharge.Render#readme"
+  "homepage": "https://github.com/JackWFinlay/Depthcharge.Render#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "jsdom": "^9.11.0"
+  }
 }
