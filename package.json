@@ -23,6 +23,7 @@
   "homepage": "https://github.com/JackWFinlay/Depthcharge.Render#readme",
   "dependencies": {
     "Express": "^3.0.1",
+    "body-parser": "^1.16.1",
     "jsdom": "^9.11.0"
   }
 }
