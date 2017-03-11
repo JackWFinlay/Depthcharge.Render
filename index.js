@@ -24,8 +24,8 @@ app.use('/api', render);// prefix routes with '/api/'
 */
 
 app.get('/', function (req, res) {
-  res.send('GET request to the homepage')
-})
+    res.send('GET request to the homepage');
+});
 
 // Start server
 var port = 8000;

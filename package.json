@@ -22,8 +22,9 @@
   },
   "homepage": "https://github.com/JackWFinlay/Depthcharge.Render#readme",
   "dependencies": {
-    "body-parser": "^1.16.1",
-    "express": "^4.14.1",
-    "jsdom": "^9.11.0"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsdom": "^9.11.0",
+    "request": "^2.81.0"
   }
 }
