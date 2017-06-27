@@ -34,6 +34,6 @@ function getRenderedHtmlAsync(html) {
             resolve(renderedHtml);
         })
     })
-};  
+};
 
 module.exports = router;
