@@ -3,4 +3,4 @@ WORKDIR /Depthcharge.Render
 ADD /Depthcharge.Render/package.json /Depthcharge.Render
 RUN npm install
 COPY /Depthcharge.Render /Depthcharge.Render
-ENTRYPOINT sh start.sh
+CMD node app.js
